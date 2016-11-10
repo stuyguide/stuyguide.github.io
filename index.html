@@ -194,9 +194,9 @@
 						<div class="inner">
 							<section>
 								<h2>Request a StuyGuide!</h2>
-								<form method="post" action="https://formspree.io/lmelnik00@stuy.edu">
+								<form method="post" action="contact.php">
 									<div class="field half first">
-										<input type="text" name="name" id="name" placeholder="Your Name" />
+										<input type="text" name="name" id="name" placeholder="Name" />
 									</div>
 									<div class="field half">
 										<input type="email" name="email" id="email" placeholder="Email" />
@@ -204,7 +204,11 @@
 									<div class="field">
 										<textarea name="message" id="message" placeholder="Message"></textarea>
 									</div>
-									<ul class="actions">
+                                    <p>Would you like to join our mailing list?</p>
+                                        <ul class="actions">
+                                        <li><input type="button" name="list" value="No"/></li>
+                                            <li><input type="button" name="list" value="Yes" checked></li></ul>
+                                    <ul class="actions">
 										<li><input type="submit" value="Send" class="special" /></li>
 									</ul>
 								</form>
