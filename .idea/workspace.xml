@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b8f1ee93-32e3-48ba-a4f7-94d2bd757012" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/biology/index.html" afterPath="$PROJECT_DIR$/biology/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/history/index.html" afterPath="$PROJECT_DIR$/history/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/history/fstudyguide1.html" afterPath="$PROJECT_DIR$/history/fstudyguide1.html" />
     </list>
     <ignored path="stuyguide.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,10 +33,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
+            <state relative-caret-position="3162">
               <caret line="186" column="42" selection-start-line="186" selection-start-column="42" selection-end-line="186" selection-end-column="42" />
               <folding />
             </state>
@@ -55,11 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fstudyguide1.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="fstudyguide1.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/history/fstudyguide1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="53" column="43" selection-start-line="53" selection-start-column="43" selection-end-line="53" selection-end-column="43" />
+            <state relative-caret-position="272">
+              <caret line="55" column="79" selection-start-line="55" selection-start-column="79" selection-end-line="55" selection-end-column="79" />
               <folding />
             </state>
           </provider>
@@ -235,10 +233,10 @@
         <option value="$PROJECT_DIR$/biology/osmosis.html" />
         <option value="$PROJECT_DIR$/biology/photosynthesis.html" />
         <option value="$PROJECT_DIR$/history/test1.html" />
-        <option value="$PROJECT_DIR$/history/fstudyguide1.html" />
         <option value="$PROJECT_DIR$/history/index.html" />
         <option value="$PROJECT_DIR$/biology/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/history/fstudyguide1.html" />
       </list>
     </option>
   </component>
@@ -371,12 +369,12 @@
       <option name="presentableId" value="Default" />
       <updated>1478719085194</updated>
       <workItem from="1478719086270" duration="4834000" />
-      <workItem from="1478851084784" duration="1636000" />
+      <workItem from="1478851084784" duration="1735000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6470000" />
+    <option name="totallyTimeSpent" value="6569000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -750,14 +748,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/history/fstudyguide1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="53" column="43" selection-start-line="53" selection-start-column="43" selection-end-line="53" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/biology/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2992">
@@ -768,8 +758,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
+        <state relative-caret-position="3162">
           <caret line="186" column="42" selection-start-line="186" selection-start-column="42" selection-end-line="186" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/history/fstudyguide1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="55" column="79" selection-start-line="55" selection-start-column="79" selection-end-line="55" selection-end-column="79" />
           <folding />
         </state>
       </provider>
